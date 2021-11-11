@@ -1,0 +1,7 @@
+# Ignore everything in these directory
+App\TightVNC\*
+Data\*
+
+# Except these file
+!.gitignore
+*.exe
